@@ -1,4 +1,4 @@
-# noli
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,3 +13,6 @@ https://nolawihadish.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Noli-Sama
+
+
+## ©️2019 Run Buddy, Inc
